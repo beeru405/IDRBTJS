@@ -1,4 +1,4 @@
-var helloString = 'Hello world!';
+var helloString = 'Hi world!';
 
 var hello = function hello() {
   return helloString;
